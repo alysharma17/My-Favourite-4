@@ -1,0 +1,10 @@
+html {
+  scroll-behavior: smooth;
+    
+}
+
+img { 
+    transition: transform .2s; }
+img:hover 
+{
+    transform: scale(4); }
